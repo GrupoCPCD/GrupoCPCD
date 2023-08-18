@@ -2,12 +2,7 @@
           📌Repositório criado para o armazenamento de Scripts e outros documentos  
           do Grupo de Estudos de Cultura Política, Comportamento e Democracia
           
-[![https://cpcduem.wixsite.com/cpcd-uem](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]([https://wa.me/message/OU473T4Z5PAAB1](https://cpcduem.wixsite.com/cpcd-uem))
-
-
-[![Nai](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]([https://wa.me/message/OU473T4Z5PAAB1)](https://cpcduem.wixsite.com/cpcd-uem)
-
-
+   ###Site do grupo:
 [![Nai](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://cpcduem.wixsite.com/cpcd-uem)
 
 
